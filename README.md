@@ -20,7 +20,7 @@ The platform supports three roles:
 
 ## 🏛️ Architecture Diagram
 
-![SyncSlot Architecture](docs/architecture.png)
+![SyncSlot Architecture](docs/Architecture.png)
 
 ## 🌟 Features
 
